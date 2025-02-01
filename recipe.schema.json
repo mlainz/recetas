@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "recipes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "The name of the recipe"
+          },
+          "description": {
+            "type": "string",
+            "description": "A brief summary of the dish"
+          },
+          "ingredients": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Ingredient name"
+                },
+                "quantity": {
+                  "type": ["number", "null"],
+                  "description": "Quantity of the ingredient (null if not specified)"
+                },
+                "unit": {
+                  "type": "string",
+                  "description": "Unit of measurement (grams, pieces, etc.)"
+                }
+              },
+              "required": ["name", "quantity", "unit"]
+            }
+          },
+          "instructions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "description": {
+                  "type": "string",
+                  "description": "Instruction step"
+                },
+                "image": {
+                  "type": "string",
+                  "description": "Optional image URL for the step",
+                  "nullable": true
+                }
+              },
+              "required": ["description"]
+            }
+          },
+          "time": {
+            "type": "string",
+            "description": "Total time needed to prepare the dish"
+          },
+          "servings": {
+            "type": "number",
+            "description": "Number of servings"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "description": "Keywords for categorization"
+            }
+          },
+          "image": {
+            "type": "string",
+            "description": "Main image of the dish"
+          }
+        },
+        "required": ["title", "ingredients", "instructions", "time", "servings", "image"]
+      }
+    }
+  },
+  "required": ["recipes"]
+}
