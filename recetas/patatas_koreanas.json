@@ -1,0 +1,49 @@
+{
+    "title": "Patatas Koreanas",
+    "description": "Inspiradas en las patatas que sirven en el Sol.",
+    "ingredients": [
+        {
+            "name": "Patatas",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Cebolletas",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Jalapeño",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Mayonesa",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Pimentón picante",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Freír las patatas en dos tandas: 15 minutos a fuego medio hasta que estén hechas por dentro y 5 minutos a fuego fuerte."
+        },
+        {
+            "description": "Preparar la salsa koreana mezclando mayonesa con unas cucharadas de pimentón picante y unas gotas de salsa de soja."
+        },
+        {
+            "description": "Añadir la cebolleta cruda en láminas muy finas y los jalapeños a las patatas. Servir con la salsa koreana."
+        }
+    ],
+    "time": "30m",
+    "servings": null,
+    "tags": [
+        "aperitivo",
+        "picante"
+    ],
+    "image": null
+}

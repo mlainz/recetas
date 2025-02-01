@@ -1,0 +1,63 @@
+{
+    "title": "Espaguetis Santoñeses",
+    "description": "Espaguetis para los amantes de las conservas y los encurtidos.",
+    "ingredients": [
+        {
+            "name": "Cebolla",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Lata de bonito en aceite de oliva",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Vinagre",
+            "quantity": null,
+            "unit": "chorro"
+        },
+        {
+            "name": "Alcaparras",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Piparras",
+            "quantity": 3,
+            "unit": "uds"
+        },
+        {
+            "name": "Pimienta",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Cortar la cebolla en juliana y sofreírla en una sartén grande utilizando el aceite del bonito."
+        },
+        {
+            "description": "Mientras tanto, poner a hervir el agua. Cuando la cebolla empiece a estar blanda, poner a hervir los espaguetis."
+        },
+        {
+            "description": "Añadir las alcaparras y las piparras cortadas en pequeñas rodajas a la sartén."
+        },
+        {
+            "description": "Cuando queden 5 minutos para sacar los espaguetis, añadir el vinagre y subir el fuego."
+        },
+        {
+            "description": "Al evaporarse el aceite, un par de minutos antes de sacar la pasta, añadir el bonito y la pimienta. Saltear."
+        },
+        {
+            "description": "Sacar los espaguetis y añadirlos a la sartén directamente sin escurrirlos. Saltear durante un minuto, sacar del fuego y servir."
+        }
+    ],
+    "time": "20m",
+    "servings": 2,
+    "tags": [
+        "pasta",
+        "pescado"
+    ],
+    "image": null
+}

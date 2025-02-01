@@ -1,0 +1,90 @@
+{
+    "title": "Lentejas Estofadas",
+    "description": "Lentejas estofadas con un toque refrescante.",
+    "ingredients": [
+        {
+            "name": "Lentejas",
+            "quantity": 1000,
+            "unit": "g"
+        },
+        {
+            "name": "Puerro",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Cabeza de ajo",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Tomate",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Rama de apio",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Cebollas",
+            "quantity": 3,
+            "unit": "uds"
+        },
+        {
+            "name": "Zanahorias",
+            "quantity": 5,
+            "unit": "uds"
+        },
+        {
+            "name": "Pimentón ahumado",
+            "quantity": 4,
+            "unit": "cda"
+        },
+        {
+            "name": "Patatas pequeñas",
+            "quantity": 4,
+            "unit": "uds"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Vinagre de Jerez",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Sal",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Poner en una olla las lentejas junto con el puerro, cebolla, ajo, tomate, apio y dos zanahorias. Cubrir con agua y hervir 30 minutos."
+        },
+        {
+            "description": "Preparar un sofrito con las cebollas restantes y el pimentón. Añadir a la olla."
+        },
+        {
+            "description": "Retirar las verduras, triturarlas y volverlas a añadir."
+        },
+        {
+            "description": "Trocear las patatas y zanahorias restantes. Añadir al guiso y hervir 15 minutos."
+        },
+        {
+            "description": "Corregir de sal y añadir vinagre de Jerez."
+        }
+    ],
+    "time": "1h",
+    "servings": null,
+    "tags": [
+        "guiso",
+        "vegetariano"
+    ],
+    "image": null
+}

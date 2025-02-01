@@ -1,0 +1,96 @@
+{
+    "title": "Caponata siciliana",
+    "description": "Receta italiana típica para el aperitivo. Es una especie de escabeche de pisto que se sirve frío. Para 8 personas.",
+    "ingredients": [
+        {
+            "name": "Berenjenas",
+            "quantity": 1000,
+            "unit": "g"
+        },
+        {
+            "name": "Cebolla dulce grande",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Ramas de apio",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Concentrado de tomate",
+            "quantity": 3,
+            "unit": "cda"
+        },
+        {
+            "name": "Tomates pelados",
+            "quantity": 500,
+            "unit": "g"
+        },
+        {
+            "name": "Aceitunas",
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "name": "Vinagre de vino blanco",
+            "quantity": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "Alcaparras",
+            "quantity": 3,
+            "unit": "cda"
+        },
+        {
+            "name": "Piñones",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Hojas de albahaca fresca",
+            "quantity": 1,
+            "unit": "puñado"
+        },
+        {
+            "name": "Azúcar",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Cortar las berenjenas en láminas gruesas, salarlas, colocarlas en un colador y prensarlas para quitarles el amargor."
+        },
+        {
+            "description": "Cortar la cebolla y el apio en grueso y sofreír."
+        },
+        {
+            "description": "Cuando la cebolla esté blanda, añadir el tomate, las alcaparras y las aceitunas. Sofreír unos 10 minutos. Añadir los piñones previamente tostados."
+        },
+        {
+            "description": "Preparar la salsa agridulce con el vinagre, el tomate concentrado y el azúcar. Añadir al sofrito y esperar 15 minutos hasta que espese. Apagar y dejar enfriar."
+        },
+        {
+            "description": "Mientras se hace el sofrito, cortar la berenjena en dados gruesos y freír en aceite muy caliente. Secar en papel absorbente."
+        },
+        {
+            "description": "Cuando la salsa y las berenjenas estén frías, mezclarlas con el sofrito y las hojas de albahaca. Corregir de sal, pimienta y azúcar. Guardar en la nevera unas horas."
+        },
+        {
+            "description": "Servir frío sobre una tosta de pan."
+        }
+    ],
+    "time": "1h 30m",
+    "servings": 8,
+    "tags": [
+        "frío",
+        "vegetariano"
+    ],
+    "image": "Caponata_siciliana.jpeg"
+}

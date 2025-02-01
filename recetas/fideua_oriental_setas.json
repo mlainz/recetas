@@ -1,0 +1,97 @@
+{
+    "title": "Fideuá oriental de setas",
+    "description": "Una mezcla de fideuá valenciana y rámen con caldo de miso, algas y salsa de soja. Para 4 personas.",
+    "ingredients": [
+        {
+            "name": "Puerros",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Cebolla dulce pequeña",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Dientes de ajo",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Setas",
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "name": "Fideos",
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "name": "Concentrado de tomate",
+            "quantity": 3,
+            "unit": "cda"
+        },
+        {
+            "name": "Pimentón picante",
+            "quantity": 2,
+            "unit": "cdta"
+        },
+        {
+            "name": "Algas",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Miso",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Salsa de soja",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Mantequilla",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Picar y sofreír la cebolla, el ajo y el puerro con aceite y un poco de mantequilla."
+        },
+        {
+            "description": "Cuando estén blandos, añadir las setas laminadas."
+        },
+        {
+            "description": "Cuando las setas hayan perdido agua (unos 10 minutos), subir el fuego y echar un chorro de vino tinto."
+        },
+        {
+            "description": "Preparar el caldo de miso y mantenerlo hirviendo en un cazo."
+        },
+        {
+            "description": "Cuando se haya evaporado el vino, añadir los fideos, el pimentón y el tomate concentrado. Dorar durante un minuto."
+        },
+        {
+            "description": "Añadir las algas y tres cucharadas de salsa de soja. Verter un poco de caldo. Ir añadiendo caldo poco a poco, de forma que no quede nunca seco."
+        },
+        {
+            "description": "Cuando estén los fideos hechos, sacar del fuego y corregir de sal, pimienta y salsa de soja. Cubrir con un paño y dejar reposar 5 min."
+        }
+    ],
+    "time": "45m",
+    "servings": 4,
+    "tags": [
+        "fideuá",
+        "vegetariano",
+        "setas"
+    ],
+    "image": null
+}
