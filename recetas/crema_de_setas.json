@@ -1,0 +1,82 @@
+{
+    "title": "Crema de setas",
+    "description": "Crema de champiñones.",
+    "ingredients": [
+        {
+            "name": "Cebolla",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Puerros",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Dientes de ajo",
+            "quantity": 3,
+            "unit": "uds"
+        },
+        {
+            "name": "Champiñones",
+            "quantity": 500,
+            "unit": "g"
+        },
+        {
+            "name": "Vino blanco",
+            "quantity": 100,
+            "unit": "ml"
+        },
+        {
+            "name": "Leche de coco",
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "name": "Caldo de verduras o miso",
+            "quantity": 750,
+            "unit": "g"
+        },
+        {
+            "name": "Aceite",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Sal",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Pimienta",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Nuez moscada",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Cebolla, puerro, ajos y aceite (5 s, vel. 5). Bajar restos hacia las cuchillas y pochar 8 min (120°, vel. 1)."
+        },
+        {
+            "description": "Añadir champiñones. Picar (5 s, vel. 5). Sofreír 8 min."
+        },
+        {
+            "description": "Agregar el vino blanco, la leche, el caldo, sal, pimienta y nuez moscada. 45 min, 100°, vel. 1."
+        },
+        {
+            "description": "Triturar la crema, subiendo la velocidad progresivamente 30 s vel. 10. Dejar unos minutos reposar tapado. Servir con los \"adornos\"."
+        }
+    ],
+    "time": null,
+    "servings": null,
+    "tags": [
+        "crema",
+        "vegetariano"
+    ],
+    "image": null
+}

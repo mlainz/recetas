@@ -1,0 +1,73 @@
+{
+    "title": "Carrilleras al vino tinto",
+    "description": "Guiso de carrilleras de cerdo al vino tinto.",
+    "ingredients": [
+        {
+            "name": "Carrilleras de cerdo",
+            "quantity": 1000,
+            "unit": "g"
+        },
+        {
+            "name": "Vino tinto",
+            "quantity": 500,
+            "unit": "ml"
+        },
+        {
+            "name": "Harina",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Verduras para el fondo (puerros, pimiento verde, cebolla, zanahoria, ajo)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Caldo de carne (en su defecto, agua)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Concentrado de tomate",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Rama de romero",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Guindilla (opcional)",
+            "quantity": 1,
+            "unit": "ud"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Salpimentar y enharinar las carrilleras y reservar."
+        },
+        {
+            "description": "Sellar las carrilleras a fuego medio-alto en la olla."
+        },
+        {
+            "description": "Preparar el fondo de verduras en la propia olla a fuego suave."
+        },
+        {
+            "description": "Subir el fuego y añadir el vino tinto, la rama de romero y la guindilla. Mantener hirviendo hasta que se evapore el alcohol."
+        },
+        {
+            "description": "Incorporar las carrilleras y añadir caldo hasta que queden cubiertas."
+        },
+        {
+            "description": "Cocinar hasta que la carne quede tierna, unas 4h a 80° C o 2h con el agua hirviendo."
+        }
+    ],
+    "time": null,
+    "servings": null,
+    "tags": [
+        "guiso",
+        "cerdo"
+    ],
+    "image": null
+}

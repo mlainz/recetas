@@ -1,0 +1,78 @@
+{
+    "title": "Espaguetis carbonara vegetarianos",
+    "description": "Versión vegetariana de los espaguetis carbonara. Se sustituye el tocino por tomates secos, que aportan un sabor salado, y puerros sofritos con mantequilla, que aportan la grasa animal.",
+    "ingredients": [
+        {
+            "name": "Espaguetis",
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "name": "Tomates secos en aceite",
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "name": "Puerro",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Huevos",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Queso parmesano o similar",
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "name": "Mantequilla",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Vino blanco (opcional)",
+            "quantity": null,
+            "unit": "chorro"
+        },
+        {
+            "name": "Pimienta",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Cortar los puerros y sofreír a fuego lento en una sartén grande unos 20 min con mantequilla y aceite, hasta que estén blandos."
+        },
+        {
+            "description": "Mientras tanto, poner a hervir el agua y hacer los espaguetis."
+        },
+        {
+            "description": "Cuando estén los puerros blandos, cortar y añadir el tomate seco."
+        },
+        {
+            "description": "Añadir a la sartén un chorrito de vino blanco y un cazo de agua de cocción de la pasta. De este modo, se ablandará el puerro y se ligará mejor la salsa."
+        },
+        {
+            "description": "Batir ligeramente los huevos mezclados con el queso rallado y pimienta."
+        },
+        {
+            "description": "Agregar los espaguetis a la sartén. Sacar del fuego y mezclar rápidamente con el huevo."
+        }
+    ],
+    "time": "30m",
+    "servings": 2,
+    "tags": [
+        "pasta",
+        "vegetariano"
+    ],
+    "image": "Espaguetis_carbonara_vegetarianos.jpeg"
+}

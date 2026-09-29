@@ -1,82 +1,82 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/mlainz/recetas/recipe.schema.json",
+  "title": "Receta",
+  "description": "Una receta, tal y como se guarda en recetas/<slug>.json. Un fichero, una receta.",
   "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "ingredients", "instructions", "time", "servings", "tags", "image"],
   "properties": {
-    "recipes": {
+    "title": {
+      "type": "string",
+      "description": "Nombre de la receta, en castellano y con acentos.",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "description": "Resumen breve del plato. Opcional."
+    },
+    "ingredients": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "quantity", "unit"],
         "properties": {
-          "title": {
+          "name": {
             "type": "string",
-            "description": "The name of the recipe"
+            "description": "Nombre del ingrediente, con la primera letra en mayúscula.",
+            "minLength": 1
           },
+          "quantity": {
+            "type": ["number", "null"],
+            "description": "Cantidad. null cuando la receta no la especifica."
+          },
+          "unit": {
+            "type": "string",
+            "description": "Unidad. Vocabulario en uso: g, ml, ud, uds, cda (cucharada), cdta (cucharadita), puñado, chorro, 'al gusto', 'cantidad necesaria'.",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "instructions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["description"],
+        "properties": {
           "description": {
             "type": "string",
-            "description": "A brief summary of the dish"
-          },
-          "ingredients": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "name": {
-                  "type": "string",
-                  "description": "Ingredient name"
-                },
-                "quantity": {
-                  "type": ["number", "null"],
-                  "description": "Quantity of the ingredient (null if not specified)"
-                },
-                "unit": {
-                  "type": "string",
-                  "description": "Unit of measurement (grams, pieces, etc.)"
-                }
-              },
-              "required": ["name", "quantity", "unit"]
-            }
-          },
-          "instructions": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "description": {
-                  "type": "string",
-                  "description": "Instruction step"
-                },
-                "image": {
-                  "type": "string",
-                  "description": "Optional image URL for the step",
-                  "nullable": true
-                }
-              },
-              "required": ["description"]
-            }
-          },
-          "time": {
-            "type": "string",
-            "description": "Total time needed to prepare the dish"
-          },
-          "servings": {
-            "type": "number",
-            "description": "Number of servings"
-          },
-          "tags": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "description": "Keywords for categorization"
-            }
+            "description": "Un paso de la elaboración. Sin numerar: el orden lo da el array.",
+            "minLength": 1
           },
           "image": {
-            "type": "string",
-            "description": "Main image of the dish"
+            "type": ["string", "null"],
+            "description": "Fichero de imagen dentro de imagenes/ para este paso. Opcional."
           }
-        },
-        "required": ["title", "ingredients", "instructions", "time", "servings", "image"]
+        }
       }
+    },
+    "time": {
+      "type": ["string", "null"],
+      "description": "Tiempo total, p. ej. '30m' o '1h 30m'. null si la receta no lo dice."
+    },
+    "servings": {
+      "type": ["number", "null"],
+      "description": "Número de comensales. null si la receta no lo dice."
+    },
+    "tags": {
+      "type": "array",
+      "description": "Etiquetas en minúscula y en castellano, p. ej. guiso, vegetariano, pasta.",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "image": {
+      "type": ["string", "null"],
+      "description": "Fichero de imagen principal dentro de imagenes/, p. ej. 'Caponata_siciliana.jpeg'. null si no hay foto."
     }
-  },
-  "required": ["recipes"]
+  }
 }

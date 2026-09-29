@@ -1,0 +1,5 @@
+# Rendered by tools/build_site.py; GitHub Actions builds it on every push.
+public/
+
+__pycache__/
+*.pyc
