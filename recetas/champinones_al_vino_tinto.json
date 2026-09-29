@@ -1,0 +1,90 @@
+{
+    "title": "Champiñones al vino tinto",
+    "description": "Inspirados en los champiñones estofados de DELICIO, en Santander.",
+    "ingredients": [
+        {
+            "name": "Champiñones",
+            "quantity": 500,
+            "unit": "g"
+        },
+        {
+            "name": "Cebollas dulces grandes",
+            "quantity": 2,
+            "unit": "uds"
+        },
+        {
+            "name": "Dientes de ajo",
+            "quantity": 3,
+            "unit": "uds"
+        },
+        {
+            "name": "Vino tinto",
+            "quantity": 250,
+            "unit": "ml"
+        },
+        {
+            "name": "Caldo de verduras",
+            "quantity": 250,
+            "unit": "ml"
+        },
+        {
+            "name": "Harina",
+            "quantity": 2,
+            "unit": "cda"
+        },
+        {
+            "name": "Jengibre",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Nuez moscada",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Guindilla",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Romero",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Sésamo",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Sofreír el ajo y la cebolla cortada fina en una cazuela, durante unos 15 min."
+        },
+        {
+            "description": "Añadir los champiñones cortados en mitades a la cazuela. Subir a fuego medio y rehogar durante unos minutos."
+        },
+        {
+            "description": "Agregar la harina y el sésamo. Tostar durante un minuto."
+        },
+        {
+            "description": "Justo después, añadir el vino y el caldo. Aumentar el fuego para que se evapore el alcohol."
+        },
+        {
+            "description": "Añadir el resto de especias y el jengibre rallado. Guisar durante media hora."
+        }
+    ],
+    "time": "45m",
+    "servings": null,
+    "tags": [
+        "guiso",
+        "vegetariano"
+    ],
+    "image": null
+}
