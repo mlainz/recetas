@@ -1,0 +1,97 @@
+{
+    "title": "Lentejas con chipirones y jamón ibérico",
+    "description": "Guiso de lentejas verdes con chipirones, jamón y verduras pochadas, ideal para los días de frío. Adaptada de un reel de Instagram (https://www.instagram.com/reel/DTxfeEBgvJe/), con la cantidad multiplicada para 4 raciones y una cucharada de miso añadida.",
+    "ingredients": [
+        {
+            "name": "Chipirones o calamares",
+            "quantity": 800,
+            "unit": "g"
+        },
+        {
+            "name": "Lentejas verdes",
+            "quantity": 320,
+            "unit": "g"
+        },
+        {
+            "name": "Jamón ibérico",
+            "quantity": 160,
+            "unit": "g"
+        },
+        {
+            "name": "Pimiento verde italiano, en juliana",
+            "quantity": 160,
+            "unit": "g"
+        },
+        {
+            "name": "Cebolla tierna, en pluma",
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "name": "Ajo tierno, en rodajas",
+            "quantity": 56,
+            "unit": "g"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": 4,
+            "unit": "cda"
+        },
+        {
+            "name": "Vino blanco",
+            "quantity": 280,
+            "unit": "ml"
+        },
+        {
+            "name": "Caldo de verduras",
+            "quantity": 2800,
+            "unit": "ml"
+        },
+        {
+            "name": "Miso",
+            "quantity": 1,
+            "unit": "cda"
+        },
+        {
+            "name": "Sal en escamas",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Calienta el aceite en una olla y marca los chipirones rápidamente, por tandas para que no se cuezan en su jugo. Retíralos y resérvalos."
+        },
+        {
+            "description": "En la misma olla, añade el ajo, la cebolla, el pimiento y el jamón. Cocina a fuego medio hasta que las verduras estén bien pochadas."
+        },
+        {
+            "description": "Incorpora las lentejas y rehógalas unos minutos más."
+        },
+        {
+            "description": "Moja con el vino blanco y deja que se evapore el alcohol."
+        },
+        {
+            "description": "Añade el caldo (puedes empezar con unos 2,4 l e ir añadiendo el resto si hace falta) y lleva a ebullición a fuego medio."
+        },
+        {
+            "description": "Cuando hierva, tapa la olla y cocina durante una hora, hasta que las lentejas estén tiernas."
+        },
+        {
+            "description": "Vuelve a añadir los chipirones y cocina a fuego medio 3 o 4 minutos."
+        },
+        {
+            "description": "Apaga el fuego. Disuelve el miso en un cazo de caldo caliente y añádelo al guiso, removiendo bien, sin que vuelva a hervir."
+        },
+        {
+            "description": "Prueba antes de salar: entre el jamón y el miso puede que necesite poca sal o ninguna."
+        }
+    ],
+    "time": "1h 30m",
+    "servings": 4,
+    "tags": [
+        "guiso",
+        "marisco"
+    ],
+    "image": null
+}
