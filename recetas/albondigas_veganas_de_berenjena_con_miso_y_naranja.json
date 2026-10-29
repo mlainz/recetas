@@ -1,0 +1,116 @@
+{
+    "title": "Albóndigas veganas de berenjena con miso y naranja",
+    "description": "Albóndigas de berenjena asada, horneadas, con una salsa de cebolla, naranja y miso blanco. El miso va solo en la salsa: las albóndigas no llevan ni miso ni levadura nutricional.",
+    "ingredients": [
+        {
+            "name": "Berenjenas",
+            "quantity": 8,
+            "unit": "uds"
+        },
+        {
+            "name": "Pan rallado (aproximado, ver pasos)",
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "name": "Almendra molida o anacardo molido",
+            "quantity": 120,
+            "unit": "g"
+        },
+        {
+            "name": "Dientes de ajo",
+            "quantity": 4,
+            "unit": "uds"
+        },
+        {
+            "name": "Perejil picado",
+            "quantity": 8,
+            "unit": "cda"
+        },
+        {
+            "name": "Almidón de tapioca",
+            "quantity": 40,
+            "unit": "g"
+        },
+        {
+            "name": "Aceite de oliva, para las albóndigas",
+            "quantity": 4,
+            "unit": "cda"
+        },
+        {
+            "name": "Sal",
+            "quantity": 18,
+            "unit": "g"
+        },
+        {
+            "name": "Pimienta",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Cebollas",
+            "quantity": 8,
+            "unit": "uds"
+        },
+        {
+            "name": "Aceite de oliva, para la salsa",
+            "quantity": 10,
+            "unit": "cda"
+        },
+        {
+            "name": "Vino blanco",
+            "quantity": 400,
+            "unit": "ml"
+        },
+        {
+            "name": "Agua o fondo vegetal",
+            "quantity": 350,
+            "unit": "ml"
+        },
+        {
+            "name": "Miso blanco (70–80 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Naranjas, solo la ralladura",
+            "quantity": 4,
+            "unit": "uds"
+        },
+        {
+            "name": "Zumo de naranja (180–220 ml)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Asar la berenjena: asar las berenjenas a 220 °C durante 40–55 minutos. Extraer la pulpa y dejarla escurrir unos 15–20 minutos, para controlar la humedad."
+        },
+        {
+            "description": "Preparar la masa: mezclar la pulpa con el ajo, el perejil, los frutos secos molidos, el almidón de tapioca, el aceite, la sal y la pimienta. Añadir inicialmente unos 320 g de pan rallado y ajustar la cantidad según la consistencia (380–420 g en total, según el agua que conserve la berenjena). Dejar reposar 15 minutos."
+        },
+        {
+            "description": "Formar: hacer albóndigas de 30–35 g y enfriarlas 20–30 minutos para que conserven mejor la forma."
+        },
+        {
+            "description": "Hornear: cocinar a 210 °C durante 18–22 minutos."
+        },
+        {
+            "description": "Salsa de cebolla: cocinar lentamente las cebollas con el aceite durante 35–45 minutos. Incorporar el vino blanco y reducirlo 8–10 minutos."
+        },
+        {
+            "description": "Terminar la salsa: incorporar el agua o fondo, el zumo y la ralladura de naranja. Reducir hasta obtener una salsa ligeramente glaseada. Disolver el miso blanco en algo del líquido de la salsa e incorporarlo hacia el final. Ajustar la pimienta."
+        },
+        {
+            "description": "Servir: napar las albóndigas con la salsa durante 1–2 minutos."
+        }
+    ],
+    "time": null,
+    "servings": 16,
+    "tags": [
+        "vegetariano",
+        "sin-probar"
+    ],
+    "image": null
+}
