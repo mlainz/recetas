@@ -1,0 +1,86 @@
+{
+    "title": "Vitello tonnato de solomillo de cerdo",
+    "description": "Vitello tonnato con solomillo de cerdo y una salsa de bonito hecha en mortero, con textura, no totalmente triturada. Las cantidades de la salsa son para 800–1.000 g de carne: para un solo solomillo de 400–500 g, preparar la mitad. Probar la salsa antes de añadir sal: las anchoas y las alcaparras ya aportan salinidad.",
+    "ingredients": [
+        {
+            "name": "Solomillo de cerdo de 400–500 g",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Sal (8–10 g por kg de carne)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Pimienta",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Bonito en aceite (180–200 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Anchoas (3–4)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Alcaparras (cucharada colmada)",
+            "quantity": 1,
+            "unit": "cda"
+        },
+        {
+            "name": "Huevo cocido",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Zumo de limón (1–2 cda)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Aceite del bonito y/o aceite de oliva suave (70–100 ml)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Agua fría, para ajustar (2–4 cda)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Hornear la carne: salar el solomillo y añadir pimienta y un poco de aceite. Hornearlo solo, sin verduras, caldo ni vino, a 140 °C, hasta alcanzar 62–63 °C en el centro. Para un solomillo de 400–500 g, unos 25–35 minutos, aunque manda la temperatura interior."
+        },
+        {
+            "description": "Reposar y enfriar: dejar reposar 10 minutos. Enfriar y refrigerar durante al menos 3 horas para poder cortarlo fino."
+        },
+        {
+            "description": "Comenzar la salsa en mortero: machacar las anchoas con las alcaparras. Añadir la yema del huevo cocido y el zumo de limón; ligar poco a poco con el aceite y ajustar la consistencia con el agua fría."
+        },
+        {
+            "description": "Conservar la textura del bonito: incorporar aproximadamente ⅔ del bonito y machacar sin llegar a hacer un puré completamente fino. Añadir el ⅓ restante desmigado al final. La clara cocida puede picarse e incorporarse, si se desea."
+        },
+        {
+            "description": "Montar: cortar el solomillo frío en lonchas de aproximadamente 2–3 mm, cubrir o acompañar con la salsa y dejar reposar 1–2 horas antes de servir."
+        }
+    ],
+    "time": null,
+    "servings": null,
+    "tags": [
+        "cerdo",
+        "frío",
+        "sin-probar"
+    ],
+    "image": null
+}
