@@ -1,0 +1,83 @@
+{
+    "title": "Confit de pato con salsa de naranja, soja y fino",
+    "description": "Muslos de pato ya confitados, con la piel crujiente al horno, y una salsa de naranja, soja y fino que se sirve debajo para no ablandar la piel.",
+    "ingredients": [
+        {
+            "name": "Muslos de pato ya confitados",
+            "quantity": 4,
+            "unit": "uds"
+        },
+        {
+            "name": "Zumo de naranja (320–350 ml, unas 4–5 naranjas según tamaño y jugosidad)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Agua (150–170 ml)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Salsa de soja",
+            "quantity": 35,
+            "unit": "ml"
+        },
+        {
+            "name": "Vino fino de Jerez",
+            "quantity": 50,
+            "unit": "ml"
+        },
+        {
+            "name": "Naranja, solo la ralladura",
+            "quantity": 1,
+            "unit": "ud"
+        },
+        {
+            "name": "Miel o azúcar (10–15 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Maicena (4–5 g, aproximadamente 1½ cdta rasas)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Agua fría para disolver la maicena (1–2 cda)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Zumo de limón, opcional (5–10 ml)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Dorar el pato: colocar los muslos confitados con la piel hacia arriba y hornear a 220–230 °C durante 12–15 minutos. Para acabar de dejar la piel crujiente, dar 2–3 minutos de grill."
+        },
+        {
+            "description": "Reducir el fino: mientras tanto, poner el fino en un cazo y dejar reducir 1–2 minutos."
+        },
+        {
+            "description": "Preparar la salsa: añadir el zumo de naranja, el agua, la soja y la miel o azúcar. Reducir aproximadamente un tercio."
+        },
+        {
+            "description": "Espesar: disolver la maicena en 1–2 cucharadas de agua fría e incorporarla a la salsa caliente, removiendo hasta alcanzar la textura deseada."
+        },
+        {
+            "description": "Acabar: incorporar la ralladura hacia el final y, si hace falta recuperar acidez, el zumo de limón opcional."
+        },
+        {
+            "description": "Emplatar: servir la salsa debajo o alrededor del pato, sin verterla sobre la piel crujiente."
+        }
+    ],
+    "time": null,
+    "servings": 4,
+    "tags": [
+        "pato",
+        "sin-probar"
+    ],
+    "image": null
+}
