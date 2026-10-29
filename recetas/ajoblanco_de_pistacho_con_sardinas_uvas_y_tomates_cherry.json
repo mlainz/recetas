@@ -1,0 +1,96 @@
+{
+    "title": "Ajoblanco de pistacho con sardinas, uvas y tomates cherry",
+    "description": "Ajoblanco de pistacho como base del plato, con sardinas, uvas y tomates cherry por encima.",
+    "ingredients": [
+        {
+            "name": "Pistacho crudo, pelado y sin sal",
+            "quantity": 75,
+            "unit": "g"
+        },
+        {
+            "name": "Miga de pan (35–40 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Ajo (¼ de diente)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Agua fría (275–300 ml)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "quantity": 20,
+            "unit": "g"
+        },
+        {
+            "name": "Vinagre de Jerez",
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "name": "Sal",
+            "quantity": 3,
+            "unit": "g"
+        },
+        {
+            "name": "Sardinas (3–4)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Tomates cherry (8–10)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Uvas (10–12)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Pistacho picado (10–15 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Cebollino",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Aceite de conserva de las sardinas",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Remojar el pan y escurrirlo."
+        },
+        {
+            "description": "Triturar los 75 g de pistacho con el ajo, la miga, la sal y unos 200 ml del agua fría, hasta conseguir una mezcla fina."
+        },
+        {
+            "description": "Emulsionar: añadir el vinagre e incorporar el aceite de oliva mientras se tritura. Agregar el resto del agua fría hasta ajustar la consistencia. Enfriar."
+        },
+        {
+            "description": "Preparar la guarnición: cortar los tomates cherry y salarlos ligeramente 10 minutos antes de montar; mantener las uvas frías."
+        },
+        {
+            "description": "Servir: poner el ajoblanco en el fondo del plato; distribuir tomates y uvas, las sardinas y el pistacho picado. Terminar con cebollino y unas gotas del aceite de las sardinas."
+        }
+    ],
+    "time": null,
+    "servings": 2,
+    "tags": [
+        "frío",
+        "pescado",
+        "sin-probar"
+    ],
+    "image": null
+}
