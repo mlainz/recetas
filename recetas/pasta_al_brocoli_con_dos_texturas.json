@@ -1,0 +1,79 @@
+{
+    "title": "Pasta al brócoli con dos texturas",
+    "description": "Pasta con el brócoli en dos texturas: los tallos, cocidos y machacados, forman la salsa; los ramilletes, escaldados y salteados, van enteros. Pendiente de fijar las cantidades para dos raciones y los tiempos de cocción.",
+    "ingredients": [
+        {
+            "name": "Pasta corta",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Brócoli, separando los ramilletes de los tallos",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Ajo",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Aceite de oliva",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Vino blanco",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Agua de cocción de la pasta y del brócoli",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Queso rallado",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Pimienta abundante",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Sal",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Separar las texturas: cortar los ramilletes del brócoli y reservar los tallos."
+        },
+        {
+            "description": "Ramilletes: escaldarlos brevemente en agua hirviendo, enfriarlos en agua fría y reservarlos para saltearlos después."
+        },
+        {
+            "description": "Tallos: cocerlos durante más tiempo, hasta que se puedan deshacer con facilidad."
+        },
+        {
+            "description": "Base de la salsa: rehogar en una sartén aceite y ajo, incorporar los tallos cocidos y añadir vino blanco. Machacar los tallos para formar una salsa, aligerándola con agua de cocción."
+        },
+        {
+            "description": "Terminar la pasta: cocer la pasta y pasarla a la sartén antes de que esté al dente. Añadir los ramilletes escaldados y salteados para que todo se impregne de la salsa y termine de cocinarse junto."
+        },
+        {
+            "description": "Acabado: apagar el fuego y añadir queso rallado y abundante pimienta. Ajustar la textura con el agua de cocción que sea necesaria."
+        }
+    ],
+    "time": null,
+    "servings": null,
+    "tags": [
+        "pasta",
+        "vegetariano",
+        "sin-probar"
+    ],
+    "image": null
+}
