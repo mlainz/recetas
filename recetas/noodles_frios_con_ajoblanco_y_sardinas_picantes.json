@@ -1,0 +1,106 @@
+{
+    "title": "Noodles fríos con ajoblanco y sardinas picantes",
+    "description": "Noodles fríos con un ajoblanco de almendra y miso blanco, sardinas en aceite picante y toppings al gusto. Sin aceite de sésamo.",
+    "ingredients": [
+        {
+            "name": "Noodles (180–200 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Almendras",
+            "quantity": 80,
+            "unit": "g"
+        },
+        {
+            "name": "Miga de pan",
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "name": "Agua fría",
+            "quantity": 300,
+            "unit": "ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra (15–20 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Vinagre de Jerez",
+            "quantity": 12,
+            "unit": "g"
+        },
+        {
+            "name": "Miso blanco (8–12 g)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Ajo (⅓ de diente)",
+            "quantity": null,
+            "unit": "cantidad necesaria"
+        },
+        {
+            "name": "Sardinas de lata en aceite picante",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Huevo mollet",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Pepino",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Tomate o tomates cherry",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Cebollino",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Cilantro",
+            "quantity": null,
+            "unit": "al gusto"
+        },
+        {
+            "name": "Aceite picante de las sardinas",
+            "quantity": null,
+            "unit": "al gusto"
+        }
+    ],
+    "instructions": [
+        {
+            "description": "Ajoblanco: triturar las almendras con el pan, el ajo, el miso, el vinagre y el agua fría. Incorporar el aceite de oliva hasta obtener una salsa homogénea. Mantener fría."
+        },
+        {
+            "description": "Noodles: cocerlos en abundante agua, siguiendo su punto de cocción; empezar a probarlos hacia los 3 minutos. Enfriar inmediatamente bajo agua fría (opcionalmente, 30–60 segundos en agua con hielo) y escurrir muy bien."
+        },
+        {
+            "description": "Toppings: prepararlos al gusto. El huevo mollet, unos 6½ minutos de cocción; el pepino puede cortarse en juliana y el tomate, en dados o mitades. Salar el pepino y el tomate ligeramente y retirar el exceso de agua."
+        },
+        {
+            "description": "Montaje: mezclar los noodles fríos con el ajoblanco. Colocar los toppings y terminar con cebollino, cilantro y unas gotas del aceite de las sardinas."
+        },
+        {
+            "description": "Variación opcional: escurrir y secar ligeramente las sardinas y darles pasadas rápidas de soplete (aproximadamente 10–20 segundos por lado) para aportar un toque tostado."
+        }
+    ],
+    "time": null,
+    "servings": 2,
+    "tags": [
+        "frío",
+        "pescado",
+        "sin-probar"
+    ],
+    "image": null
+}
